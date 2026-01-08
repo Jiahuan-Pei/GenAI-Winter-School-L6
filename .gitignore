@@ -1,0 +1,8 @@
+cache/*
+*.log
+.ipynb_checkpoints/*
+.DS_Store
+notebooks/.ipynb_checkpoints/*
+notebooks/.DS_Store
+notebooks/cache/*
+notebooks/*.log
